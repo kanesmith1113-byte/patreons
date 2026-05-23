@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "Community Allies": {
+    "color": "#b4513c",
+    "id": 0,
+    "members": [
+      "Tempest Ookami",
+      "Person 5"
+    ]
+  },
+  "Platinum Patreons": {
+    "color": "#7cb43c",
+    "id": 1,
+    "members": [
+      "Avocado",
+      "Person 2",
+      "Person 3"
+    ]
+  },
+  "Ultimate Champions": {
+    "color": "#ffd700",
+    "id": 2,
+    "members": [
+      "Your Name"
+    ]
+  }
+}
